@@ -1,6 +1,6 @@
 # AION 2 — игровая панель
 
-**[Скачать установщик для Windows x64](https://github.com/SkyPwner/AionTelemetry-releases/releases/download/v1.0.44/AionTelemetry-Setup-1.0.44.exe)** · [Все версии](https://github.com/SkyPwner/AionTelemetry-releases/releases)
+**[Скачать установщик для Windows x64](https://github.com/SkyPwner/AionTelemetry-releases/releases/download/v1.0.45/AionTelemetry-Setup-1.0.45.exe)** · [Все версии](https://github.com/SkyPwner/AionTelemetry-releases/releases)
 
 ## Установка
 
